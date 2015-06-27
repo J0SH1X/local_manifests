@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!--Device tree-->
+<project path="device/samsung/jfltexx" name="StanHardy/android_device_samsung_jfltexx" remote="github" revision="cm-12.1" />
+<project path="device/samsung/jf-common" name="StanHardy/android_device_samsung_jf-common" remote="github" revision="cm-12.1" />
+<project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" remote="github" revision="cm-12.1" />
+<!--Proprietary vendor blobs-->
+<!--  <project path="vendor/samsung" name="TheMuppets/proprietary_vendor_samsung" remote="github" revision="cm-12.1" /> -->   
+<!-- Kernel -->   
+<project name="CyanogenMod/android_kernel_samsung_jf" path="kernel/samsung/jf" remote="github" revision="cm-12.1" />
+</manifest>
