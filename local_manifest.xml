@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  	<!--Self update this manifest-->
+<project path=".repo/local_manifests" name="StanHardy/local_manifests" remote="github" revision="master">
+<copyfile src="local_manifest.xml" dest="local_manifest.xml" />
+</project>
+
 <!--Device tree-->
 <project path="device/samsung/jfltexx" name="StanHardy/android_device_samsung_jfltexx" remote="github" revision="cm-12.1" />
 <project path="device/samsung/jf-common" name="StanHardy/android_device_samsung_jf-common" remote="github" revision="cm-12.1" />
