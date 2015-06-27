@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remove-project name="CyanogenMod/android_hardware_qcom_audio" />
+  <project name="CyanogenMod/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/apq8084" remote="github" revision="cm-12.1-caf-8084"  />
+
+  <remove-project name="CyanogenMod/android_hardware_qcom_audio" />
+  <project name="CyanogenMod/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8226" remote="github" revision="cm-12.1-caf-8226" />
+
+  <remove-project name="CyanogenMod/android_hardware_qcom_audio" />
+  <project name="CyanogenMod/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8610" remote="github" revision="cm-12.1-caf-8610" />
+
+  <remove-project name="CyanogenMod/android_hardware_qcom_audio" />
+  <project name="CyanogenMod/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8916" remote="github" revision="cm-12.1-caf-8916" />
+
+  <remove-project name="CyanogenMod/android_hardware_qcom_audio" />
+  <project name="CyanogenMod/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8974" remote="github" revision="cm-12.1-caf-8974" />
+
+  <remove-project name="CyanogenMod/android_hardware_qcom_audio" />
+  <project name="CyanogenMod/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8994" remote="github" revision="cm-12.1-caf-8994" />
+
+  <remove-project name="CyanogenMod/android_hardware_qcom_display" />
+  <project name="CyanogenMod/android_hardware_qcom_display" path="hardware/qcom/display-caf/apq8084" remote="github" revision="cm-12.1-caf-8084" />
+
+  <remove-project name="CyanogenMod/android_hardware_qcom_display" />
+  <project name="CyanogenMod/android_hardware_qcom_display" path="hardware/qcom/display-caf/msm8226" remote="github" revision="cm-12.1-caf-8226" />
+
+  <remove-project name="CyanogenMod/android_hardware_qcom_display" />
+  <project name="CyanogenMod/android_hardware_qcom_display" path="hardware/qcom/display-caf/msm8610" remote="github" revision="cm-12.1-caf-8610" />
+  
+  <remove-project name="CyanogenMod/android_hardware_qcom_display" />
+  <project name="CyanogenMod/android_hardware_qcom_display" path="hardware/qcom/display-caf/msm8916" remote="github" revision="cm-12.1-caf-8916" />
+  
+  <remove-project name="CyanogenMod/android_hardware_qcom_display" />
+  <project name="CyanogenMod/android_hardware_qcom_display" path="hardware/qcom/display-caf/msm8974" remote="github" revision="cm-12.1-caf-8974" />
+  
+  <remove-project name="CyanogenMod/android_hardware_qcom_display" />
+  <project name="CyanogenMod/android_hardware_qcom_display" path="hardware/qcom/display-caf/msm8994" remote="github" revision="cm-12.1-caf-8994" />
+  
+  <remove-project name="CyanogenMod/android_hardware_qcom_media" />
+  <project name="CyanogenMod/android_hardware_qcom_media" path="hardware/qcom/media-caf/apq8084" remote="github" revision="cm-12.1-caf-8084" />
+  
+  <remove-project name="CyanogenMod/android_hardware_qcom_media" />
+  <project name="CyanogenMod/android_hardware_qcom_media" path="hardware/qcom/media-caf/msm8226" remote="github" revision="cm-12.1-caf-8226" />
+  
+  <remove-project name="CyanogenMod/android_hardware_qcom_media" />
+  <project name="CyanogenMod/android_hardware_qcom_media" path="hardware/qcom/media-caf/msm8610" remote="github" revision="cm-12.1-caf-8610" />
+  
+  <remove-project name="CyanogenMod/android_hardware_qcom_media" />
+  <project name="CyanogenMod/android_hardware_qcom_media" path="hardware/qcom/media-caf/msm8916" remote="github" revision="cm-12.1-caf-8916" />
+  
+  <remove-project name="CyanogenMod/android_hardware_qcom_media" />
+  <project name="CyanogenMod/android_hardware_qcom_media" path="hardware/qcom/media-caf/msm8974" remote="github" revision="cm-12.1-caf-8974" />
+  
+  <remove-project name="CyanogenMod/android_hardware_qcom_media" />
+  <project name="CyanogenMod/android_hardware_qcom_media" path="hardware/qcom/media-caf/msm8994" remote="github" revision="cm-12.1-caf-8994" />
+</manifest>
