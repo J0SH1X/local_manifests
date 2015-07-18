@@ -10,5 +10,5 @@
 
 <!-- Kernel -->   
 <project name="TeamBliss-Devices/android_kernel_samsung_jflte" path="kernel/samsung/jflte" remote="github" revision="lp5.1" />
-<project path="hardware/qcom/msm8960" name="platform/hardware/qcom/msm8960" groups="qcom_msm8960" remote="aosp" />
+<!--<project path="hardware/qcom/msm8960" name="platform/hardware/qcom/msm8960" groups="qcom_msm8960" remote="aosp" />-->   
 </manifest>
