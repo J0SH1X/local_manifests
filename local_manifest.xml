@@ -3,7 +3,7 @@
 <!--Device tree-->
 <project path="device/samsung/jfltexx" name="StanHardy/android_device_samsung_jfltexx" remote="github" revision="cm-12.1" />
 <project path="device/samsung/jf-common" name="StanHardy/android_device_samsung_jf-common" remote="github" revision="cm-12.1" />
-<project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" remote="github" revision="cm-12.1" />
+<project path="device/samsung/qcom-common" name="StanHardy/android_device_samsung_qcom-common" remote="github" revision="cm-12.1" />
 
 <!--Proprietary vendor blobs-->
 <project path="vendor/samsung" name="StanHardy/proprietary_vendor_samsung" remote="github" revision="cm-12.0" />  
