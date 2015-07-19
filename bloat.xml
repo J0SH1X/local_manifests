@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Unneeded repos -->
-  <!-- <remove-project name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" />
+  <remove-project name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" />
   <remove-project name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" />
-  <remove-project name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.8" />
-  <remove-project name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" />
+ <!-- <remove-project name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.8" />-->
+ <!-- <remove-project name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" />-->
   <remove-project name="platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8" />
   <remove-project name="platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.8" />
   <remove-project name="platform/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.8" />
   <remove-project name="platform/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9" />
-  <remove-project name="platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8" />-->
+  <remove-project name="platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8" />
   <remove-project name="CyanogenMod/android_device_generic_arm64" />
   <remove-project name="CyanogenMod/android_device_generic_mips" />
   <remove-project name="device/generic/mini-emulator-arm64" />
@@ -54,7 +54,7 @@
   <remove-project name="platform/prebuilts/clang/darwin-x86/mips/3.3" />   
   <remove-project name="platform/prebuilts/clang/darwin-x86/x86/3.3" />
   <remove-project name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.8" />
-  <remove-project name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9" />
+  <!-- <remove-project name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9" />-->
   <remove-project name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8" />
   <remove-project name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.8" />
   <remove-project name="platform/prebuilts/gcc/darwin-x86/host/headers" />
@@ -65,7 +65,7 @@
   <remove-project name="platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.8" />
   <remove-project name="platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9" />
   <remove-project name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.8" />
-  <remove-project name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" />
+ <!--  <remove-project name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" />-->
   <remove-project name="platform/prebuilts/python/darwin-x86/2.7.5" />  
   <remove-project name="CyanogenMod/android_packages_apps_CMAccount" /> 
   <remove-project name="CyanogenMod/android_packages_apps_CMWallpapers" />
