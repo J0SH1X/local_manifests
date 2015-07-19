@@ -6,7 +6,7 @@
 <project path="device/samsung/qcom-common" name="StanHardy/android_device_samsung_qcom-common" remote="github" revision="cm-12.1" />
 
 <!--Proprietary vendor blobs-->
-<project path="vendor/samsung" name="StanHardy/proprietary_vendor_samsung" remote="github" revision="cm-12.0" />  
+<project path="vendor/samsung" name="StanHardy/proprietary_vendor_samsung" remote="github" revision="cm-12.1" />  
 
 <!-- Kernel -->   
 <project name="TeamBliss-Devices/android_kernel_samsung_jflte" path="kernel/samsung/jflte" remote="github" revision="lp5.1" />
