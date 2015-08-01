@@ -79,7 +79,7 @@
   <remove-project name="CyanogenMod/android_packages_wallpapers_MusicVisualization" />
   <remove-project name="CyanogenMod/android_packages_wallpapers_HoloSpiral" />
   <remove-project name="CyanogenMod/android_packages_screensavers_PhotoTable" />
-      <!-- Device vendor repos -->
+  <!-- Device vendor repos -->
   <remove-project name="TeamBliss-Devices/proprietary_vendor_lge" />
   <remove-project name="TheMuppets/proprietary_vendor_asus" />
   <remove-project name="TeamBliss-Devices/proprietary_vendor_htc" />
@@ -93,4 +93,16 @@
   <remove-project name="TheMuppets/proprietary_vendor_broadcom" />
   <remove-project name="TheMuppets/proprietary_vendor_widevine" />
   <remove-project name="TeamBliss-Devices/proprietary_vendor_xiaomi" />
+  <!-- Unused Toolchain repos -->  
+  <remove-project name="infected-lp/sm_arm-linux-androideabi-4.8.x" />
+  <remove-project name="infected-lp/sm_rom_4.9_hybrid" />
+  <remove-project name="TeamBliss-LP/arm-linux-androideabi-5.1" />
+  <remove-project name="infected-lp/sm_arm-eabi-4.8.x" />
+  <remove-project name="infected-lp/sm_kernel_4.9_hybrid" />
+  <remove-project name="TeamBliss-LP/arm-eabi-5.1" />
+  <remove-project name="UBERTC/arm-linux-androideabi-4.8" />
+  <remove-project name="UBERTC/arm-linux-androideabi-5.1" />
+  <remove-project name="UBERTC/arm-eabi-4.8" />
+  <remove-project name="UBERTC/arm-eabi-5.1" />
+  <remove-project name="UBERTC/arm-eabi-6.0" />
 </manifest>
