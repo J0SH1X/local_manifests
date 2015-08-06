@@ -8,6 +8,9 @@
 <!--Proprietary vendor blobs-->
 <!--<project path="vendor/samsung" name="StanHardy/proprietary_vendor_samsung" remote="github" revision="cm-12.1" />-->
 
+<!--JDCTeam vendor-->
+<project path="vendor/jdc" name="JDCTeam/android_vendor_jdc" remote="github" revision="opt-cm-12.1" />
+
 <!--Kernel-->   
 <!--<project name="TeamBliss-Devices/android_kernel_samsung_jflte" path="kernel/samsung/jflte" remote="github" revision="lp5.1" />-->
 <!--<project path="hardware/qcom/msm8960" name="platform/hardware/qcom/msm8960" groups="qcom_msm8960" remote="aosp" />-->-->
