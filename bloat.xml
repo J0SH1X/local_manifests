@@ -68,7 +68,6 @@
   <remove-project name="CyanogenMod/android_packages_wallpapers_HoloSpiral" />
   <remove-project name="CyanogenMod/android_packages_screensavers_PhotoTable" />
   <!-- Device vendor repos -->
-  <remove-project name="TeamBliss-Devices/proprietary_vendor_lge" />
   <remove-project name="TheMuppets/proprietary_vendor_asus" />
   <remove-project name="TeamBliss-Devices/proprietary_vendor_htc" />
   <remove-project name="TeamBliss-Devices/proprietary_vendor_motorola" />  
