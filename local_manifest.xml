@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <!--Device tree-->
-<project path="device/samsung/jfltexx" name="StanHardy/android_device_samsung_jfltexx" remote="github" revision="cm-12.1" />
-<!--<project path="device/samsung/jf-common" name="StanHardy/android_device_samsung_jf-common" remote="github" revision="cm-12.1" />-->
-<!--<project path="device/samsung/qcom-common" name="StanHardy/android_device_samsung_qcom-common" remote="github" revision="cm-12.1" />-->
+<project path="device/lge/h815" name="lg-devs/android_device_lge_h815" remote="github" revision="cm-12.1" />
+<project path="device/lge/g4-common" name="lg-devs/android_device_lge_g4-common" remote="github" revision="cm-12.1-test" />
+<project path="device/qcom_common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-12.1" />
+<project path="hardware/qcom/audio-caf/msm8992" name="CyanogenMod/android_hardware_qcom_audio" remote="github" revision="cm-12.1-caf-8992" />
+<project path="hardware/qcom/display-caf/msm8992" name="CyanogenMod/android_hardware_qcom_display" remote="github" revision="cm-12.1-caf-8992" />
+<project path="hardware/qcom/media-caf/msm8992" name="CyanogenMod/android_hardware_qcom_media" remote="github" revision="cm-12.1-caf-8992" />
 
 <!--Proprietary vendor blobs-->
-<!--<project path="vendor/samsung" name="StanHardy/proprietary_vendor_samsung" remote="github" revision="cm-12.1" />-->
-
-<!--JDCTeam vendor-->
-<project path="vendor/jdc" name="JDCTeam/android_vendor_jdc" remote="github" revision="opt-cm-12.1" />
+<project path="vendor/lge" name="lg-devs/proprietary_vendor_lge" remote="github" revision="cm-12.1" />
 
 <!--Kernel-->   
-<!--<project name="TeamBliss-Devices/android_kernel_samsung_jflte" path="kernel/samsung/jflte" remote="github" revision="lp5.1" />-->
-<!--<project path="hardware/qcom/msm8960" name="platform/hardware/qcom/msm8960" groups="qcom_msm8960" remote="aosp" />-->-->
-
-<!--Alucard24 Kernel-->
-<!--<project path="kernel/samsung/alucard24" name="Alucard24/Alucard-Kernel-jfltexx" remote="github" revision="my-aospv2-5.1" />-->
-<!--<project path="kernel/samsung/Ramdisk" name="Alucard24/Ramdisk" remote="github" revision="aospv2-5.1" />-->
-<!--<project path="kernel/arm-eabi-5.1" name="arter97/arm-eabi-5.1" remote="github" revision="master" />-->
-
-<!--Linaro 4.9.3-->
-<!--<project path="kernel/cr-arm-eabi-4.9.4" name="Christopher83/arm-cortex_a15-linux-gnueabihf-linaro_4.9" remote="github" revision="master" />-->
+<project name="lg-g4-dev/android_kernel_lge_g4" path="kernel/lge/msm8992" remote="github" revision="master" />
 </manifest>
