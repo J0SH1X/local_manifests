@@ -72,6 +72,7 @@
   <remove-project name="TheMuppets/proprietary_vendor_asus" />
   <remove-project name="TeamBliss-Devices/proprietary_vendor_htc" />
   <remove-project name="TeamBliss-Devices/proprietary_vendor_motorola" />  
+  <remove-project name="TeamBliss-Devices/proprietary_vendor_samsung" />   
   <remove-project name="TheMuppets/proprietary_vendor_sony" /> 
   <remove-project name="TeamBliss/android_vendor_samsung_i9082" />
   <remove-project name="TeamBliss-Devices/proprietary_vendor_samsung_galaxys2plus-common" />
@@ -81,6 +82,8 @@
   <remove-project name="TheMuppets/proprietary_vendor_broadcom" />
   <remove-project name="TheMuppets/proprietary_vendor_widevine" />
   <remove-project name="TeamBliss-Devices/proprietary_vendor_xiaomi" />
+  <remove-project name="CyanogenMod/android_packages_apps_SamsungServiceMode" />  
+  <remove-project name="TeamBliss-Devices/android_hardware_samsung" />  
   <!-- Unused Toolchain repos -->  
   <remove-project name="infected-lp/sm_arm-linux-androideabi-4.8.x" />
   <remove-project name="infected-lp/sm_rom_4.9_hybrid" />
