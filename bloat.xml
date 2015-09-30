@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Unneeded repos -->
-  <remove-project name="CyanogenMod/android_device_generic_arm64" />
+ <!-- <remove-project name="CyanogenMod/android_device_generic_arm64" />
   <remove-project name="CyanogenMod/android_device_generic_mips" />
   <remove-project name="device/generic/mini-emulator-arm64" />
   <remove-project name="device/generic/mini-emulator-mips" />
@@ -54,7 +54,7 @@
   <remove-project name="platform/prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.8" />  
   <remove-project name="platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.8" />
   <remove-project name="platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9" />
-  <remove-project name="platform/prebuilts/python/darwin-x86/2.7.5" />  
+  <remove-project name="platform/prebuilts/python/darwin-x86/2.7.5" />  -->
   <remove-project name="CyanogenMod/android_packages_apps_CMAccount" /> 
   <remove-project name="CyanogenMod/android_packages_apps_CMWallpapers" />
   <remove-project name="CyanogenMod/android_packages_apps_CMBugreport" />
@@ -84,7 +84,7 @@
   <remove-project name="CyanogenMod/android_packages_apps_SamsungServiceMode" />  
   <remove-project name="TeamBliss-Devices/android_hardware_samsung" />  
   <!-- Unused Toolchain repos -->  
-  <remove-project name="infected-lp/sm_arm-linux-androideabi-4.8.x" />
+<!--  <remove-project name="infected-lp/sm_arm-linux-androideabi-4.8.x" />
   <remove-project name="infected-lp/sm_rom_4.9_hybrid" />
   <remove-project name="TeamBliss-LP/arm-linux-androideabi-5.1" />
   <remove-project name="infected-lp/sm_arm-eabi-4.8.x" />
@@ -92,5 +92,5 @@
   <remove-project name="TeamBliss-LP/arm-eabi-5.1" />
   <remove-project name="UBERTC/arm-linux-androideabi-4.8" />
   <remove-project name="UBERTC/arm-eabi-4.8" />
-  <remove-project name="UBERTC/arm-eabi-6.0" />
+  <remove-project name="UBERTC/arm-eabi-6.0" />-->
 </manifest>
