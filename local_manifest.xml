@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <!--Device tree-->
-<project path="device/lge/h815" name="BlissRoms-Devices/android_device_lge_h815" remote="github" revision="mm6.0" />
+<project path="device/lge/h815" name="CyanogenMod/android_device_lge_h815" remote="github" revision="cm-13.0" />
+<!--Kernel-->
+<project path="kernel/lge/msm8992" name="CyanogenMod/android_kernel_lge_msm8992" remote="github" revision="cm-13.0" />
 </manifest>
