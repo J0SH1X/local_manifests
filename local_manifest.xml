@@ -4,12 +4,11 @@
 <project path="device/lge/h815" name="CyanogenMod/android_device_lge_h815" remote="github" revision="cm-13.0" />
 <!--Kernel-->
 <project path="kernel/lge/msm8992" name="CyanogenMod/android_kernel_lge_msm8992" remote="github" revision="cm-13.0" />
-<!--Kernel-->
+<!--Qualcomm-->
 <project path="device/lge/g4-common" name="CyanogenMod/android_device_lge_g4-common" remote="github" revision="cm-13.0" />
-<!--Kernel-->
 <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-13.0" />
-<!--Kernel-->
+<!--Thermal-->
 <project path="hardware/sony/thermanager" name="CyanogenMod/android_hardware_sony_thermanager" remote="github" revision="cm-13.0" />
-<!--Kernel-->
+<!--Timekeep-->
 <project path="hardware/sony/timekeep" name="CyanogenMod/android_hardware_sony_timekeep" remote="github" revision="cm-13.0" />
 </manifest>
