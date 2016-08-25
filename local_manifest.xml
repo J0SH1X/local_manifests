@@ -5,12 +5,15 @@
 <!--Kernel-->
 <project path="kernel/lge/msm8992" name="CyanogenMod/android_kernel_lge_msm8992" remote="github" revision="cm-13.0" />
 <!--Qualcomm-->
-<project path="device/lge/g4-common" name="CyanogenMod/android_device_lge_g4-common" remote="github" revision="cm-13.0" />
+<project path="device/lge/g4-common" name="CyanogenMod/android_device_lge_g4-common" remote="github" revision="cm-14.0" />
 <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-13.0" />
 <!--Thermal-->
 <project path="hardware/sony/thermanager" name="CyanogenMod/android_hardware_sony_thermanager" remote="github" revision="cm-13.0" />
 <!--Timekeep-->
 <project path="hardware/sony/timekeep" name="CyanogenMod/android_hardware_sony_timekeep" remote="github" revision="cm-13.0" />
 <!--Vendor-->
-<project path="vendor/lge" name="TheMuppets/proprietary_vendor_lge" remote="github" revision="cm-13.0" />
+<project path="vendor/lge" name="TheMuppets/proprietary_vendor_lge" remote="github" revision="cm-14.0" />
+<!--General-->
+<project path="external/sony/boringssl-compat" name="CyanogenMod/android_external_sony_boringssl-compat" remote="github" revision="cm-13.0" />
+<project path="external/stlport" name="CyanogenMod/android_external_stlport" remote="github" revision="cm-13.0" />
 </manifest>
