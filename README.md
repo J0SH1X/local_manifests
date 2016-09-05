@@ -7,6 +7,8 @@ repo sync --force-sync
 
 make clean && make clobber
 
+export ROOMSERVICE_BRANCHES=cm-14.0
+
 . build/envsetup.sh
 
 breakfast h815
