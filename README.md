@@ -9,6 +9,7 @@ make clean && make clobber
 
 export ROOMSERVICE_BRANCHES=cm-14.0
 
+source build/envsetup.sh
 . build/envsetup.sh
 
 breakfast h815
