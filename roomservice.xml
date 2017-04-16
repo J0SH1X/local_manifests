@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+<project name="LineageOS/android_device_lge_h811" path="device/lge/h811" remote="github" revision="cm-14.1" />
 <project name="LineageOS/android_device_lge_h815" path="device/lge/h815" remote="github" revision="cm-14.1" />
 <project name="LineageOS/android_device_lge_g4-common" path="device/lge/g4-common" remote="github" revision="cm-14.1" />
 <project name="LineageOS/android_kernel_lge_msm8992" path="kernel/lge/msm8992" remote="github" revision="cm-14.1" />
