@@ -8,25 +8,25 @@
 
 	<!-- Device Trees -->
 
-	<project path="device/lge/h870" name="TeamNexus/android_device_lge_h870" revision="cm-14.1" />
+	<project path="device/lge/h870" name="TeamNexus/android_device_lge_h870" remote="github" revision="cm-14.1" />
 
-	<project path="device/lge/g6-common" name="TeamNexus/android_device_lge_g6-common" revision="cm-14.1" />
+	<project path="device/lge/g6-common" name="TeamNexus/android_device_lge_g6-common" remote="github" revision="cm-14.1" />
 
-	<project path="device/lge/msm8996-common" name="TeamNexus/android_device_lge_msm8996-common" revision="cm-14.1" />
+	<project path="device/lge/msm8996-common" name="TeamNexus/android_device_lge_msm8996-common" remote="github" revision="cm-14.1" />
 
 
 
 	<!-- Kernel -->
 
-	<project path="kernel/lge/msm8996" name="TeamNexus/android_kernel_lge_msm8996" revision="cm-14.1" />
+	<project path="kernel/lge/msm8996" name="TeamNexus/android_kernel_lge_msm8996" remote="github" revision="cm-14.1" />
 
 
 
 	<!-- Misc -->
 
-	<project path="vendor/lge" name="TheMuppets/proprietary_vendor_lge" revision="lineage-15.0" />
+	<project path="vendor/lge" name="TheMuppets/proprietary_vendor_lge" remote="github" revision="lineage-15.0" />
 
-	<project path="device/qcom/sepolicy" name="LineageOS/android_device_qcom_sepolicy" revision="cm-14.1" />
+	<project path="device/qcom/sepolicy" name="LineageOS/android_device_qcom_sepolicy" remote="github" revision="cm-14.1" />
 
 
 
