@@ -12,7 +12,7 @@
 	<project path="kernel/lge/msm8996" name="Rashed97/android_kernel_lge_msm8996" remote="github" revision="staging/lineage-15.0-rebase" />
 
 	<!-- Misc -->
-	<project path="vendor/lge" name="TheMuppets/proprietary_vendor_lge" remote="github" revision="lineage-15.0" />
+	<project path="vendor/lge" name="Rashed97/proprietary_vendor_lge" remote="github" revision="staging/lineage-15.0" />
 	<!-- <project path="device/qcom/sepolicy" name="LineageOS/android_device_qcom_sepolicy" remote="github" revision="cm-14.1" />-->
 	<project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="lineage-15.0" />
 	
