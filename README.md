@@ -1,17 +1,7 @@
-#Local manifest
-To add this manifest to your local repository, use this command in source's root:
-
-git clone git://github.com/StanHardy/local_manifests.git -b master .repo/local_manifests
-
-repo sync --force-sync
-
-make clean && make clobber
-
-export ROOMSERVICE_BRANCHES=cm-14.0
-
-source build/envsetup.sh
-. build/envsetup.sh
-
-breakfast h815
-
-brunch h815
+cd device/qcom/sepolicy
+git remote add lOS https://github.com/LineageOS/android_device_qcom_sepolicy
+git fetch lOS
+git cherry-pick 08a5a428fd55fa33370f31ace2a10a74817b5b2c
+git cherry-pick 6ff8a5feb6d69d902d635ea07a043b8958996f7c
+git cherry-pick 415717e1ff5df3528401621022566ca5b26cc587
+cd ../../..
